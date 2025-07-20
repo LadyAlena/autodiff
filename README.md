@@ -260,3 +260,6 @@ grad_y = 5
 ## 5. Проект: библиотека на C++ для MATLAB-модели F-16
 ## 6. Словарь терминологии
 ## 7. Список литературы
+[1] Baydin, A. G., B. A. Pearlmutter, A. A. Radul, and J. M. Siskind. "Automatic Differentiation in Machine Learning: a Survey." The Journal of Machine Learning Research, 18(153), 2018, pp. 1–43. Available at https://arxiv.org/abs/1502.05767.
+
+[2] Automatic differentiation. Wikipedia. Available at https://en.wikipedia.org/wiki/Automatic_differentiation.
