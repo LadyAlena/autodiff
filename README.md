@@ -102,6 +102,8 @@
 
 ### 1.2. Обратный метод
 
+![Обратный метод](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AutoDiff.webp/911px-AutoDiff.webp.png)
+
 Разберём обратный метод алгоритмического дифференцирования (backpropagation или reverse-mode AD) на том же примере:  
 `f(x, y) = sin(x² + y²)` в точке `(x₀, y₀) = (1, 2)`.
 
